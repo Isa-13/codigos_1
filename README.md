@@ -1,1 +1,1 @@
-# codigos_1
+Estructurar el codigo.
