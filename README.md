@@ -1,1 +1,1 @@
-Estructurar el codigo.
+Tasar el codigo.
